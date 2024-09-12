@@ -1,0 +1,10 @@
+'''
+Libraries needed so the project works:
+requests
+pandas
+matplotlib
+datetime
+'''
+
+# Please remember to use your own API Key, and replace the file name from "env_example.py" to ".env" so the code doesn't break.
+
